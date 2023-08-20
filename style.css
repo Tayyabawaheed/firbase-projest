@@ -1,0 +1,70 @@
+.head {
+    text-align: center;
+    font-size: x-large;
+    color: rgb(58, 177, 58);
+    font-style: normal;
+    margin-top: 250PX;
+    align-items: center;
+    
+
+
+}
+
+.sh {
+    text-align: center;
+    font-size: 25px;
+    color: blue; 
+    font-weight:600;
+    margin-top: -40px;
+    
+
+   
+
+    
+
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: center;
+
+
+}
+
+
+
+.get-started-button {
+    padding: 15px 60px;
+    background-color: #10c01e;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    box-shadow: 10X 10px 10px rgba(97, 82, 82, 0.1);
+    transition: background-color 0.3s ease;
+    
+}
+
+
+
+
+
+.logo {
+    width: 20px;
+    margin-bottom: 300px;
+    margin-left: center;
+    margin-right: center;
+    padding: 2.252px 2.25px 2.547px 2.813px;
+   
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: block;
+}
+
+
